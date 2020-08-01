@@ -3,7 +3,7 @@
     "author": "Tanjie",
     "description": "deep learning recording",
     "language": "zh-hans",
-    "gitbook": "7.0.12",
+    "gitbook": "3.1.1",
     "styles": {
         "website": "./styles/website.css"
     },
@@ -29,8 +29,8 @@
         },
         "github-buttons": {
             "buttons": [{
-                "user": "Blankj",
-                "repo": "glory",
+                "user": "0tanjie0",
+                "repo": "Deep-Learning",
                 "type": "star",
                 "size": "small",
                 "count": true
