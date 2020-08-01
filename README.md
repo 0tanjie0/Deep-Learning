@@ -1,3 +1,8 @@
-# My Awesome Book
+# 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+主要为记录工作和学习过程中认为重要的内容和遇到的坑
+
+
+
+
+
