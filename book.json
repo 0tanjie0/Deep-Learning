@@ -3,7 +3,7 @@
     "author": "Tanjie",
     "description": "deep learning recording",
     "language": "zh-hans",
-    "gitbook": "3.2.3",
+    "gitbook": "1.1.1",
     "styles": {
         "website": "./styles/website.css"
     },
